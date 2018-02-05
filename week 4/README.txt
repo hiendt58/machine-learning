@@ -1,0 +1,1 @@
+Tham khảo khóa "Machine Learning" của Coursera Tuần 1 và Tuần 2 để có đủ kiến thức phục vụ làm bài tập tuần này.
