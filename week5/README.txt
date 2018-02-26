@@ -1,0 +1,2 @@
+Tiếp tục hoàn thành code Linear Regression Tuần 4 với Regularization (đã update trong code tuần 4).
+Tham khảo khóa "Machine Learning" của Coursera Tuần 1 và Tuần 2 để có đủ kiến thức phục vụ làm bài tập tuần này.
